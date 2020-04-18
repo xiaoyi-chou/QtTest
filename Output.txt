@@ -1,0 +1,10 @@
+file_name,categories,start_x,start_y,end_x,end_y
+CatHeart.png,Heart,278,472,585,645
+CatHeart.png,Cat,148,131,801,900
+CatHeart.png,TV,334,18,875,539
+CatHeart.png,Cat,115,113,637,779
+CatHeart.png,TV,266,32,679,459
+CatHeart.png,Heart,221,412,467,549
+CatHeart2.png,Cat,160,128,595,753
+CatHeart2.png,Heart,263,396,463,534
+CatHeart.png,,168,164,332,348
